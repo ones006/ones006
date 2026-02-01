@@ -15,7 +15,7 @@ I'm a passionate developer who loves building clean, functional, and user-centri
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-
+---
 
 **Frameworks & Tools:**
 ![Vue](https://img.shields.io/badge/vue-%2320232a.svg?style=for-the-badge&logo=vue&logoColor=%2361DAFB)
@@ -29,15 +29,15 @@ I'm a passionate developer who loves building clean, functional, and user-centri
 
 ### 📊 GitHub Stats
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ones006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ones006&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ones006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ones006&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ### 🌱 What I'm Up To
 - 🔭 I’m currently working on improving my skills in **Backend Architecture**.
-- 📚 I’m learning **Nuxt.js** and **TypeScript**.
+- 📚 I’m learning **Next.js** and **TypeScript**.
 - 💬 Ask me about **Web Development** or **UI Design**.
 - ⚡ Fun fact: I believe code should be written for humans to understand, and computers to execute.
 
