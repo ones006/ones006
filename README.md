@@ -37,7 +37,7 @@ I'm a passionate developer who loves building clean, functional, and user-centri
 
 ### 🌱 What I'm Up To
 - 🔭 I’m currently working on improving my skills in **Backend Architecture**.
-- 📚 I’m learning **Next.js** and **TypeScript**.
+- 📚 I’m learning **Nuxt.js** and **TypeScript**.
 - 💬 Ask me about **Web Development** or **UI Design**.
 - ⚡ Fun fact: I believe code should be written for humans to understand, and computers to execute.
 
