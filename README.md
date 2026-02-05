@@ -24,7 +24,7 @@ I'm a passionate developer who loves building clean, functional, and user-centri
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF4A55.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![AdonisJS](https://img.shields.io/badge/adonisjs-%23000000.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
-![NuxtJS](https://img.shields.io/badge/Nuxtjs-00DC82?style=for-the-badge&logo=Nuxts&logoColor=white)
+![NuxtJS](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=Nuxts&logoColor=white)
 ---
 
 ### 📊 GitHub Stats
