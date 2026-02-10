@@ -42,7 +42,7 @@ I'm a passionate developer who loves building clean, functional, and user-centri
 - ⚡ Fun fact: I believe code should be written for humans to understand, and computers to execute.
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iwan.sunarya)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/iwan-sunarya)
 
 ---
 <p align="center">
